@@ -1,1 +1,7 @@
-<Solution />
+<Solution>
+  <Project Path="EasyCashIdentityProject.BusinessLayer/EasyCashIdentityProject.BusinessLayer.csproj" Id="bf6c0ea9-2998-46f1-aca5-741eef3764d3" />
+  <Project Path="EasyCashIdentityProject.DataAccessLayer/EasyCashIdentityProject.DataAccessLayer.csproj" Id="1a2f7d10-c9f9-4a9b-99a9-91d836ad704c" />
+  <Project Path="EasyCashIdentityProject.DtoLayer/EasyCashIdentityProject.DtoLayer.csproj" Id="deab53d9-9266-412c-b615-f39d2745b13d" />
+  <Project Path="EasyCashIdentityProject.EntityLayer/EasyCashIdentityProject.EntityLayer.csproj" Id="38910757-8fe8-400d-93c2-828d2d3e24d3" />
+  <Project Path="EasyCashIdentityProject.PresantationLayer/EasyCashIdentityProject.PresantationLayer.csproj" Id="3b2f911b-e311-49cc-8a4f-e5ffd1b0cfcb" />
+</Solution>
